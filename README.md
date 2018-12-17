@@ -72,8 +72,13 @@
     wr
 ---
 ### Check Interface in Nagpur Router:     
-  
+  ---
   ![sh ip in br](https://user-images.githubusercontent.com/43333447/50085380-bd194d00-01ae-11e9-806e-7e671584ca29.png)
+  ---
+### Routing information :
+---
+![show ip protocols](https://user-images.githubusercontent.com/43333447/50085507-1e412080-01af-11e9-97cf-20de786f70b7.png)
+---
 
    ## Router pune configuration:
  ### Fastethernet config

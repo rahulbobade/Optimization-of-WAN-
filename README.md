@@ -227,4 +227,8 @@
 ![ping result](https://user-images.githubusercontent.com/43333447/50086359-a0324900-01b1-11e9-9e25-90c207a81453.png)
 
 ---
-   
+### Ping result from pc3 to pc 1 via router Mumbai-pune-nagpur :
+---
+![ping result](https://user-images.githubusercontent.com/43333447/50086419-d40d6e80-01b1-11e9-871c-08b3065c0e13.png)
+
+---

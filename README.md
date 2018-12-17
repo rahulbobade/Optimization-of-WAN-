@@ -9,18 +9,18 @@
 
 ---
 
-config terminal
+    config terminal
 
-interface Fastethernet 0/0
+    interface Fastethernet 0/0
 
-no shut
+    no shut
 
-ip add 192.168.10.1 255.255.255.0
+    ip add 192.168.10.1 255.255.255.0
 
-exit
+    exit
 
-exit
+    exit
 
-wr 
+    wr 
 
 ---

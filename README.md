@@ -73,7 +73,7 @@
     exit 
  ---
  
-### Serial interface configuration 
+### Serial interface 1/2 configuration 
 
  ---
  
@@ -84,6 +84,18 @@
    
 ---
     
+### Serial interface 1/1 configuration
+---
+    config terminal
+    int s1/1
+    no shut
+    clock rate 64000
+    ip add 192.168.40.1 255.255.255.0
+    exit 
+    exit 
+    wr
+---
+
    
    
    

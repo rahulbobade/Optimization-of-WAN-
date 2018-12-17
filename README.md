@@ -62,6 +62,16 @@
     exit
     wr
     ---
+### RIP (Routing information protocol) configuration in Nagpur router:
+---
+    config terminal
+    router rip
+    network 192.168.10.0
+    network 192.168.20.0
+    exit 
+    wr
+---
+    
   
    ## Router pune configuration:
  ### Fastethernet config

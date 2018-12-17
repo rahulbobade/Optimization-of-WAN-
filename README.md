@@ -36,4 +36,34 @@
     clock rate 64000
    
     ip add 192.168.20.1 255.255.255.0
+    exit 
+    
+    exit 
+    
+    wr
+    
    ---
+   ### Password and line configuration in Nagpur router:
+   ---
+    config terminal 
+    enable pass a
+    enable sec b 
+    line vty 0 1276
+    pass a
+    login
+    exit 
+    line aux 
+    pass a
+    login
+    exit 
+    line con 0 
+    pass a
+    login
+    exit
+    wr
+    ---
+  
+   
+   
+   
+   

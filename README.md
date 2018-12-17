@@ -103,6 +103,9 @@
     int s1/2
     no shut 
     ip add 192.168.20.2 255.255.255.0
+    exit
+    exit 
+    wr
    
 ---
     

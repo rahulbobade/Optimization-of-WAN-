@@ -4,7 +4,9 @@
 ![main screenshots](https://user-images.githubusercontent.com/43333447/50071490-c8f11900-0186-11e9-9160-430bb62ea1a7.png)
 
 ## Router Nagpur configuration:
-
+---
+![router nagpur](https://user-images.githubusercontent.com/43333447/50085608-62ccbc00-01af-11e9-919f-b119af34334d.png)
+---
 ### First interface 0/0 configuration
 
 ---

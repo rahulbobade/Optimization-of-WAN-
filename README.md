@@ -95,7 +95,25 @@
     exit 
     wr
 ---
-
+### Router pune password and line configuration 
+---
+    config terminal
+    enbale pass a
+    enable sec b
+    line vty 0 1276
+    pass a
+    login
+    exit 
+    line con 0 
+    pass a
+    login
+    exit 
+    line aux 0 
+    pass a
+    login
+    exit 
+    wr 
+---
    
    
    

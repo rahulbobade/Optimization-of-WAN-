@@ -83,6 +83,9 @@
 ---
 
    ## Router pune configuration:
+   ---
+   ![router pune](https://user-images.githubusercontent.com/43333447/50085703-9d365900-01af-11e9-84bd-c1fc18ab0664.png)
+---
  ### Fastethernet config
  ---
     config terminal

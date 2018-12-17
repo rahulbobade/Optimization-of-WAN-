@@ -232,3 +232,5 @@
 ![ping result](https://user-images.githubusercontent.com/43333447/50086419-d40d6e80-01b1-11e9-871c-08b3065c0e13.png)
 
 ---
+
+*ALL RESULT CHECK FROM GNS3*

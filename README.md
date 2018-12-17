@@ -146,6 +146,10 @@
     exit
     exit 
     wr
+### Routing protocol information:
+---
+![sh ip proto](https://user-images.githubusercontent.com/43333447/50085864-2188dc00-01b0-11e9-874c-9892789d3cba.png)
+---
 
 ## Router Mumbai configuration 
 ---

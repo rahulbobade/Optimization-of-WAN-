@@ -148,6 +148,9 @@
     wr
 
 ## Router Mumbai configuration 
+---
+![router mumbai](https://user-images.githubusercontent.com/43333447/50085737-c1923580-01af-11e9-81b0-cf077249b778.png)
+---
 
 ### Fastethernet 0/0 configuration
 ---

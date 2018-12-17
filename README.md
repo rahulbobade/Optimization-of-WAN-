@@ -63,6 +63,16 @@
     wr
     ---
   
+   ## Router pune configuration:
+ ### Fastethernet config
+ ---
+    config terminal
+    interface f0/0
+    no shut 
+    ip add 192.168.30.1 255.255.255.0
+    exit 
+ ---
+ 
    
    
    

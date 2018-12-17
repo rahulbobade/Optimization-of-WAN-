@@ -151,6 +151,11 @@
 ![sh ip proto](https://user-images.githubusercontent.com/43333447/50085864-2188dc00-01b0-11e9-874c-9892789d3cba.png)
 ---
 
+### Router interfaces :
+---
+![sh ip inter brief](https://user-images.githubusercontent.com/43333447/50085971-89d7bd80-01b0-11e9-8f9d-7ad212dbfb87.png)
+---
+
 ## Router Mumbai configuration 
 ---
 ![router mumbai](https://user-images.githubusercontent.com/43333447/50085737-c1923580-01af-11e9-81b0-cf077249b778.png)

@@ -124,6 +124,17 @@
     exit 
     wr 
 ---
+## RIP (Routing information protocol) configuration in Pune router:
+---
+    config terminal
+    router rip
+    network 192.168.20.0
+    network 192.168.30.0
+    network 192.168.40.0
+    exit
+    exit 
+    wr
+
 ## Router Mumbai configuration 
 
 ### Fastethernet 0/0 configuration

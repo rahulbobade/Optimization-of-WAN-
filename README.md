@@ -71,8 +71,10 @@
     exit 
     wr
 ---
-    
+### Check Interface in Nagpur Router:     
   
+  ![sh ip in br](https://user-images.githubusercontent.com/43333447/50085380-bd194d00-01ae-11e9-806e-7e671584ca29.png)
+
    ## Router pune configuration:
  ### Fastethernet config
  ---

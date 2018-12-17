@@ -222,5 +222,9 @@
 ---
 ![ping result via nagpur - mumbai router](https://user-images.githubusercontent.com/43333447/50086295-6103f800-01b1-11e9-857b-3c4b2b2f1ce8.png)
 ---
-   
+### Ping result from pc2 to pc3 via router Pune-Mumbai :
+---
+![ping result](https://user-images.githubusercontent.com/43333447/50086359-a0324900-01b1-11e9-9e25-90c207a81453.png)
+
+---
    

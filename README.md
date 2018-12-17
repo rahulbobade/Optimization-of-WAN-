@@ -213,7 +213,11 @@
 ![sh ip proto](https://user-images.githubusercontent.com/43333447/50086069-ca373b80-01b0-11e9-9cbb-60a2c054ae6b.png)
 
 ---
-   
+### Interfaces on router Mumbai :
+---
+![sh ip int brief](https://user-images.githubusercontent.com/43333447/50086138-fbb00700-01b0-11e9-8700-353baa0accf0.png)
+
+---
    
    
    

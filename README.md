@@ -114,6 +114,20 @@
     exit 
     wr 
 ---
+## Router Mumbai configuration 
+
+### Fastethernet 0/0 configuration
+---
+
+    config terminal
+    int f0/0
+    no shut 
+    ip add 192.168.50.1 255.255.255.0
+    exit 
+    wr
+ ---   
+
+
    
    
    

@@ -174,6 +174,17 @@
     exit 
     wr
 ---
+## RIP (Routing information protocol) configuation in Mumbai Router:
+---
+    config terminal
+    router rip 
+    network 192.168.40.0
+    network 192.168.50.0
+    exit 
+    exit 
+    wr
+---
+
    
    
    

@@ -126,7 +126,14 @@
     exit 
     wr
  ---   
-
+### Mumbai serial interface 1/2 configuration 
+---
+    int s1/2
+    no shut 
+    ip add 192.168.40.2 255.255.255.0
+    exit  
+    wr
+---
 
    
    
